@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "geo-map-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/geoMap/GeoMapWebPart.js",
+          "manifest": "./src/webparts/geoMap/GeoMapWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GeoMapWebPartStrings": "lib/webparts/geoMap/loc/{locale}.js"
+  }
+}

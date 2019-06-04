@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "d-3-demo-app-client-side-solution",
+    "id": "99975352-fa31-45fa-88f2-5ce4a2988935",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/d-3-demo-app.sppkg"
+  }
+}
