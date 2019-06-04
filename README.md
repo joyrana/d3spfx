@@ -1,4 +1,4 @@
-## d-3-demo-app
+## D3 Demo App in SPFx
 
 This is where you include your WebPart documentation.
 
