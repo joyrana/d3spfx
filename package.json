@@ -18,7 +18,7 @@
     "@microsoft/sp-webpart-base": "1.8.2",
     "@types/es6-promise": "0.0.33",
     "@types/webpack-env": "1.13.1",
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "d3-geo": "^1.11.3",
     "d3-geo-projection": "^2.7.0",
     "d3-tip": "^0.9.1",
